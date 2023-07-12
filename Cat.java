@@ -10,11 +10,6 @@ public class Cat extends Animal {
     }
 
     @Override
-    public void Pet() {
-        System.out.println("Purr");
-    }
-
-    @Override
     public void ordinaryActivity() {
         System.out.println("Sleep");
     }

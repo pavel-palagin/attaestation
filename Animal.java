@@ -11,8 +11,6 @@ public abstract class Animal {
 
     abstract void Voice();
 
-    abstract void Pet();
-
     abstract void ordinaryActivity();
 
     @Override

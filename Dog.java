@@ -11,11 +11,6 @@ public class Dog extends Animal{
     }
 
     @Override
-    public void Pet() {
-        System.out.println("Wag the tail");
-    }
-
-    @Override
     public void ordinaryActivity() {
         System.out.println("Gnaw a bone");
     }

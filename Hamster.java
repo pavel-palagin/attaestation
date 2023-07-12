@@ -9,14 +9,10 @@ public class Hamster extends  Animal {
 
     }
 
-    @Override
-    void Pet() {
-
-    }
 
     @Override
     public void ordinaryActivity() {
-        System.out.println("Run in wheel");
+        System.out.println(" run in wheel");
     }
 }
 
